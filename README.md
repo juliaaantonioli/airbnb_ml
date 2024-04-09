@@ -12,4 +12,5 @@ My methodology combines linear and tree-based regression models, including Linea
 The Random Forest Regressor emerged as the most effective model, striking a balance between accuracy and generalizability, resulting in robust pricing recommendations for Airbnb hosts in New York City.
 
 [Click here for the google colab notebook](https://drive.google.com/file/d/1MSbD0R181IVCOH0y9Jnw6cUiZI5hH9qX/view?usp=sharing)
+
 [Click here for the Airbnb Dataset](https://drive.google.com/file/d/1W6duagcB2XWyxppFFgciDVMvS5Hf1KDd/view?usp=sharing)
